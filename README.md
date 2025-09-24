@@ -1,6 +1,6 @@
 # Oren Van Allen - Personal Portfolio
 
-A modern, responsive personal portfolio built with React, TypeScript, and Tailwind CSS v4.
+modern, responsive personal portfolio built with React, TypeScript, and Tailwind CSS v4.
 
 ## Features
 
