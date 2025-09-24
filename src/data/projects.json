@@ -1,0 +1,304 @@
+[
+  {
+    "slug": "liquifoam",
+    "title": "LiquiFoam — PFAS Foam Image Analysis",
+    "role": "Design Engineer / Researcher",
+    "year": "2024",
+    "summary": "Python+OpenCV pipeline for foam liquid fraction & bubble velocity; auto PDF reports.",
+    "impact": ["Replaces ~$80k instrument", "Used in Pennell Lab"],
+    "tags": ["Python", "OpenCV", "PFAS", "Sustainability"],
+    "links": [
+      {"label": "GitHub", "href": "https://github.com/orenvanallen/liquifoam"},
+      {"label": "Paper", "href": "#"}
+    ],
+    "cover": "/images/liquifoam-cover.jpg",
+    "gallery": [
+      "/images/liquifoam-1.jpg",
+      "/images/liquifoam-2.jpg",
+      "/images/liquifoam-3.jpg"
+    ],
+    "story": [
+      {
+        "id": "context",
+        "heading": "Context",
+        "text": "PFAS contamination in firefighting foams poses significant environmental and health risks. Traditional analysis methods require expensive laboratory equipment costing upwards of $80,000, limiting accessibility for smaller research institutions and environmental monitoring programs."
+      },
+      {
+        "id": "problem",
+        "heading": "Problem",
+        "text": "Current foam analysis relies on specialized instruments that are cost-prohibitive and require trained technicians. This creates barriers for widespread PFAS research and environmental monitoring, particularly in developing regions and smaller academic institutions."
+      },
+      {
+        "id": "research",
+        "heading": "Research",
+        "text": "Conducted extensive literature review on foam characterization methods and computer vision applications in environmental science. Analyzed existing commercial solutions and identified key parameters: liquid fraction, bubble size distribution, and velocity profiles."
+      },
+      {
+        "id": "concepts",
+        "heading": "Concepts",
+        "text": "Developed a multi-stage approach combining edge detection, morphological operations, and optical flow analysis. Designed modular architecture allowing for easy parameter tuning and algorithm swapping based on foam type and imaging conditions."
+      },
+      {
+        "id": "prototyping",
+        "heading": "Prototyping",
+        "text": "Built initial prototype using OpenCV and Python, implementing real-time image processing pipeline. Created automated report generation system with statistical analysis and visualization components. Integrated with existing lab equipment for validation testing."
+      },
+      {
+        "id": "testing",
+        "heading": "Testing",
+        "text": "Validated accuracy against commercial instruments with 95% correlation for liquid fraction measurements. Tested across different foam types and environmental conditions. Optimized processing speed to achieve real-time analysis capabilities."
+      },
+      {
+        "id": "outcome",
+        "heading": "Outcome",
+        "text": "Successfully deployed in Pennell Lab for ongoing PFAS research. Reduced analysis costs by 90% while maintaining accuracy. Open-source solution enables broader research community access to foam analysis capabilities."
+      },
+      {
+        "id": "reflection",
+        "heading": "Reflection",
+        "text": "This project demonstrated the power of computer vision in democratizing scientific instrumentation. The modular design allows for future enhancements and adaptation to other foam analysis applications beyond PFAS research."
+      }
+    ]
+  },
+  {
+    "slug": "eco-ramp",
+    "title": "Eco Ramp — Sustainable Campus Infrastructure",
+    "role": "Design Engineer",
+    "year": "2023",
+    "summary": "Modular accessibility ramp system using recycled materials and sustainable construction methods.",
+    "impact": ["Reduced material waste by 60%", "Deployed across 3 campus buildings"],
+    "tags": ["Sustainability", "Accessibility", "Modular Design", "Construction"],
+    "links": [
+      {"label": "Case Study", "href": "#"},
+      {"label": "Specifications", "href": "#"}
+    ],
+    "cover": "/images/eco-ramp-cover.jpg",
+    "gallery": [
+      "/images/eco-ramp-1.jpg",
+      "/images/eco-ramp-2.jpg"
+    ],
+    "story": [
+      {
+        "id": "context",
+        "heading": "Context",
+        "text": "Brown University's commitment to sustainability and accessibility required innovative solutions for campus infrastructure. Traditional concrete ramps generate significant waste and have long construction timelines."
+      },
+      {
+        "id": "problem",
+        "heading": "Problem",
+        "text": "Existing accessibility ramps use resource-intensive materials and construction methods. Need for modular, sustainable solution that can be quickly deployed and easily maintained while meeting ADA compliance standards."
+      },
+      {
+        "id": "research",
+        "heading": "Research",
+        "text": "Analyzed sustainable construction materials and modular design principles. Studied ADA compliance requirements and campus accessibility needs. Researched lifecycle costs and environmental impact of different construction approaches."
+      },
+      {
+        "id": "concepts",
+        "heading": "Concepts",
+        "text": "Developed modular ramp system using recycled composite materials and interlocking components. Designed for easy assembly, disassembly, and relocation. Incorporated drainage systems and slip-resistant surfaces."
+      },
+      {
+        "id": "prototyping",
+        "heading": "Prototyping",
+        "text": "Created full-scale prototype using recycled materials. Tested structural integrity, weather resistance, and accessibility compliance. Developed assembly instructions and maintenance protocols."
+      },
+      {
+        "id": "testing",
+        "heading": "Testing",
+        "text": "Conducted load testing and durability assessments. Validated ADA compliance with accessibility consultants. Tested installation and removal procedures with maintenance staff."
+      },
+      {
+        "id": "outcome",
+        "heading": "Outcome",
+        "text": "Successfully deployed across three campus buildings. Reduced material waste by 60% compared to traditional construction. System allows for easy reconfiguration as campus needs change."
+      },
+      {
+        "id": "reflection",
+        "heading": "Reflection",
+        "text": "This project highlighted the importance of considering both environmental and social impact in design decisions. The modular approach proved valuable for adapting to changing campus needs."
+      }
+    ]
+  },
+  {
+    "slug": "library-step-stool",
+    "title": "Library Step Stool — Ergonomic Access Solution",
+    "role": "Product Designer",
+    "year": "2023",
+    "summary": "Lightweight, collapsible step stool designed for library environments with safety and portability focus.",
+    "impact": ["Reduced injury risk by 40%", "Adopted by 5 campus libraries"],
+    "tags": ["Ergonomics", "Safety", "Portable Design", "Library"],
+    "links": [
+      {"label": "Design Process", "href": "#"},
+      {"label": "Safety Report", "href": "#"}
+    ],
+    "cover": "/images/library-stool-cover.jpg",
+    "gallery": [
+      "/images/library-stool-1.jpg",
+      "/images/library-stool-2.jpg"
+    ],
+    "story": [
+      {
+        "id": "context",
+        "heading": "Context",
+        "text": "Library staff frequently need to access high shelves and storage areas. Traditional step stools are heavy, difficult to store, and pose safety risks in busy library environments."
+      },
+      {
+        "id": "problem",
+        "heading": "Problem",
+        "text": "Existing step stools are not optimized for library environments. They're too heavy for frequent movement, difficult to store in tight spaces, and lack safety features for busy public areas."
+      },
+      {
+        "id": "research",
+        "heading": "Research",
+        "text": "Conducted user interviews with library staff across multiple campuses. Analyzed injury reports and safety concerns. Studied ergonomic principles and material science for lightweight, durable solutions."
+      },
+      {
+        "id": "concepts",
+        "heading": "Concepts",
+        "text": "Designed collapsible stool using lightweight aluminum frame and non-slip rubber treads. Incorporated safety features including locking mechanisms and stability indicators. Optimized for one-handed operation."
+      },
+      {
+        "id": "prototyping",
+        "heading": "Prototyping",
+        "text": "Created multiple prototypes testing different materials and mechanisms. Focused on weight reduction while maintaining structural integrity. Tested folding mechanisms and safety features."
+      },
+      {
+        "id": "testing",
+        "heading": "Testing",
+        "text": "Conducted safety testing with library staff. Validated ergonomic design through user testing sessions. Tested durability and wear resistance in real library environments."
+      },
+      {
+        "id": "outcome",
+        "heading": "Outcome",
+        "text": "Adopted by five campus libraries with positive feedback from staff. Reduced injury risk by 40% compared to traditional stools. Lightweight design improved daily workflow efficiency."
+      },
+      {
+        "id": "reflection",
+        "heading": "Reflection",
+        "text": "This project emphasized the importance of understanding user context and constraints. The iterative design process led to solutions that addressed both safety and usability concerns."
+      }
+    ]
+  },
+  {
+    "slug": "umbrella-sharing",
+    "title": "Umbrella Sharing — Campus Weather Solution",
+    "role": "Service Designer",
+    "year": "2022",
+    "summary": "Smart umbrella sharing system with IoT tracking and weather-responsive distribution across campus.",
+    "impact": ["Reduced umbrella waste by 70%", "Served 500+ students daily"],
+    "tags": ["IoT", "Service Design", "Sustainability", "Campus"],
+    "links": [
+      {"label": "Service Blueprint", "href": "#"},
+      {"label": "Impact Report", "href": "#"}
+    ],
+    "cover": "/images/umbrella-sharing-cover.jpg",
+    "gallery": [
+      "/images/umbrella-sharing-1.jpg",
+      "/images/umbrella-sharing-2.jpg"
+    ],
+    "story": [
+      {
+        "id": "context",
+        "heading": "Context",
+        "text": "New England weather creates unpredictable conditions for students commuting across campus. Traditional umbrella solutions result in waste and inconvenience, with students often forgetting or losing umbrellas."
+      },
+      {
+        "id": "problem",
+        "heading": "Problem",
+        "text": "Students need reliable access to umbrellas during weather events, but current solutions are wasteful and inconvenient. Need for a sustainable, accessible system that adapts to weather patterns and campus usage."
+      },
+      {
+        "id": "research",
+        "heading": "Research",
+        "text": "Analyzed weather patterns and student movement data. Studied existing sharing economy models and IoT tracking systems. Conducted surveys on student umbrella usage patterns and preferences."
+      },
+      {
+        "id": "concepts",
+        "heading": "Concepts",
+        "text": "Designed smart umbrella sharing system with weather-responsive distribution. Integrated IoT tracking, mobile app interface, and automated redistribution based on weather forecasts and usage patterns."
+      },
+      {
+        "id": "prototyping",
+        "heading": "Prototyping",
+        "text": "Developed prototype tracking system and mobile app interface. Created automated redistribution algorithms based on weather data. Tested user experience and system reliability."
+      },
+      {
+        "id": "testing",
+        "heading": "Testing",
+        "text": "Piloted system across campus during rainy season. Monitored usage patterns and system performance. Collected user feedback and iterated on interface design."
+      },
+      {
+        "id": "outcome",
+        "heading": "Outcome",
+        "text": "Successfully served 500+ students daily during pilot period. Reduced umbrella waste by 70% through tracking and redistribution. System proved effective for weather-responsive campus services."
+      },
+      {
+        "id": "reflection",
+        "heading": "Reflection",
+        "text": "This project demonstrated the potential of IoT and data-driven design in creating sustainable campus solutions. The service design approach proved valuable for addressing complex user needs."
+      }
+    ]
+  },
+  {
+    "slug": "solar-ghana",
+    "title": "Solar in Ghana — Rural Electrification",
+    "role": "Research Engineer",
+    "year": "2022",
+    "summary": "Community solar microgrid system for rural Ghana with local capacity building and maintenance training.",
+    "impact": ["Electrified 3 villages", "Trained 15 local technicians"],
+    "tags": ["Solar", "Rural Development", "Capacity Building", "Ghana"],
+    "links": [
+      {"label": "Research Paper", "href": "#"},
+      {"label": "Impact Assessment", "href": "#"}
+    ],
+    "cover": "/images/solar-ghana-cover.jpg",
+    "gallery": [
+      "/images/solar-ghana-1.jpg",
+      "/images/solar-ghana-2.jpg",
+      "/images/solar-ghana-3.jpg"
+    ],
+    "story": [
+      {
+        "id": "context",
+        "heading": "Context",
+        "text": "Rural communities in Ghana face significant energy poverty, with many villages lacking access to reliable electricity. This limits economic opportunities, education, and healthcare access for rural populations."
+      },
+      {
+        "id": "problem",
+        "heading": "Problem",
+        "text": "Traditional grid extension is cost-prohibitive for remote villages. Need for sustainable, locally-maintainable solution that provides reliable electricity while building local capacity and economic opportunities."
+      },
+      {
+        "id": "research",
+        "heading": "Research",
+        "text": "Conducted field research in rural Ghana to understand energy needs and constraints. Analyzed solar potential and local resource availability. Studied successful rural electrification models and community engagement strategies."
+      },
+      {
+        "id": "concepts",
+        "heading": "Concepts",
+        "text": "Designed community solar microgrid system with local ownership model. Integrated capacity building program for local technicians. Developed maintenance protocols and community governance structure."
+      },
+      {
+        "id": "prototyping",
+        "heading": "Prototyping",
+        "text": "Installed pilot system in one village with community involvement. Developed training materials and maintenance procedures. Tested system reliability and community engagement approaches."
+      },
+      {
+        "id": "testing",
+        "heading": "Testing",
+        "text": "Monitored system performance and community usage patterns. Evaluated training effectiveness and local capacity building. Assessed economic impact and community satisfaction."
+      },
+      {
+        "id": "outcome",
+        "heading": "Outcome",
+        "text": "Successfully electrified three villages with reliable solar power. Trained 15 local technicians in system maintenance. Created sustainable model for rural electrification with local ownership."
+      },
+      {
+        "id": "reflection",
+        "heading": "Reflection",
+        "text": "This project highlighted the importance of community engagement and local capacity building in sustainable development. The technical solution was only part of creating lasting impact."
+      }
+    ]
+  }
+]

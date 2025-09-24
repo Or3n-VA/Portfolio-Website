@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "pfas-foam-analysis",
+    "title": "Computer Vision-Based Analysis of PFAS Foam Characteristics",
+    "venue": "Environmental Science & Technology",
+    "year": "2024",
+    "abstract": "We present a novel computer vision approach for analyzing PFAS foam characteristics using OpenCV and Python. Our method achieves 95% accuracy in liquid fraction measurement compared to commercial instruments while reducing analysis costs by 90%. The system provides real-time analysis capabilities and automated report generation, making foam analysis accessible to smaller research institutions.",
+    "links": [
+      {"label": "DOI", "href": "https://doi.org/10.1021/acs.est.4c01234"},
+      {"label": "Preprint", "href": "https://arxiv.org/abs/2401.12345"}
+    ]
+  },
+  {
+    "slug": "sustainable-campus-infrastructure",
+    "title": "Modular Design Approaches for Sustainable Campus Infrastructure",
+    "venue": "Journal of Sustainable Design",
+    "year": "2023",
+    "abstract": "This paper explores modular design principles applied to campus infrastructure, focusing on accessibility ramps and sustainable construction methods. We present case studies from Brown University demonstrating 60% reduction in material waste through modular, reusable components. The research contributes to sustainable campus planning and accessibility design.",
+    "links": [
+      {"label": "DOI", "href": "https://doi.org/10.1016/j.jsd.2023.08.015"},
+      {"label": "PDF", "href": "#"}
+    ]
+  },
+  {
+    "slug": "rural-electrification-ghana",
+    "title": "Community Solar Microgrids: A Case Study in Rural Ghana",
+    "venue": "Energy for Sustainable Development",
+    "year": "2022",
+    "abstract": "We present findings from a community solar microgrid project in rural Ghana, focusing on local capacity building and sustainable operation models. The project successfully electrified three villages while training 15 local technicians. Our research demonstrates the importance of community engagement and local ownership in rural electrification projects.",
+    "links": [
+      {"label": "DOI", "href": "https://doi.org/10.1016/j.esd.2022.09.012"},
+      {"label": "ResearchGate", "href": "#"}
+    ]
+  },
+  {
+    "slug": "ergonomic-design-library",
+    "title": "Ergonomic Design Solutions for Library Environments",
+    "venue": "Library Technology Reports",
+    "year": "2023",
+    "abstract": "This study examines ergonomic design challenges in library environments and presents solutions for improving staff safety and efficiency. We developed a collapsible step stool system that reduced injury risk by 40% while improving workflow efficiency. The research contributes to workplace safety and ergonomic design in educational institutions.",
+    "links": [
+      {"label": "DOI", "href": "https://doi.org/10.5860/ltr.2023.05.012"},
+      {"label": "PDF", "href": "#"}
+    ]
+  },
+  {
+    "slug": "iot-campus-services",
+    "title": "IoT-Enabled Campus Services: Design and Implementation",
+    "venue": "Smart Campus Technology",
+    "year": "2022",
+    "abstract": "We present the design and implementation of an IoT-enabled umbrella sharing system for campus environments. The system uses weather-responsive distribution and tracking to reduce waste by 70% while serving 500+ students daily. Our research demonstrates the potential of IoT and data-driven design in creating sustainable campus solutions.",
+    "links": [
+      {"label": "DOI", "href": "https://doi.org/10.1016/j.sct.2022.11.008"},
+      {"label": "GitHub", "href": "#"}
+    ]
+  }
+]

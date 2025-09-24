@@ -1,0 +1,87 @@
+[
+  {
+    "org": "Brown University",
+    "role": "Design Engineer & Researcher",
+    "start": "2022",
+    "end": "Present",
+    "bullets": [
+      "Developed computer vision solutions for environmental research applications",
+      "Designed sustainable campus infrastructure systems reducing material waste by 60%",
+      "Led interdisciplinary research projects combining design, engineering, and environmental science",
+      "Mentored undergraduate students in design engineering and research methods"
+    ],
+    "tools": ["Python", "OpenCV", "CAD", "Prototyping", "Research Methods"],
+    "links": [
+      {"label": "Lab Website", "href": "https://brown.edu/research/pennell-lab"},
+      {"label": "Research Profile", "href": "#"}
+    ]
+  },
+  {
+    "org": "MIT Media Lab",
+    "role": "Research Intern",
+    "start": "2021",
+    "end": "2022",
+    "bullets": [
+      "Contributed to IoT-enabled campus services research and development",
+      "Designed user interfaces for smart campus applications",
+      "Conducted user research and usability testing for mobile applications",
+      "Collaborated with interdisciplinary team on sustainable technology solutions"
+    ],
+    "tools": ["React", "IoT", "User Research", "Prototyping", "Data Analysis"],
+    "links": [
+      {"label": "Project Portfolio", "href": "#"},
+      {"label": "Research Paper", "href": "#"}
+    ]
+  },
+  {
+    "org": "Ghana Solar Initiative",
+    "role": "Field Research Engineer",
+    "start": "2021",
+    "end": "2022",
+    "bullets": [
+      "Led community solar microgrid installation and capacity building program",
+      "Trained 15 local technicians in solar system maintenance and operation",
+      "Conducted impact assessment and community engagement for rural electrification",
+      "Developed sustainable operation models for community-owned solar systems"
+    ],
+    "tools": ["Solar Design", "Community Engagement", "Training", "Impact Assessment"],
+    "links": [
+      {"label": "Project Report", "href": "#"},
+      {"label": "Impact Assessment", "href": "#"}
+    ]
+  },
+  {
+    "org": "Brown University Library",
+    "role": "Design Consultant",
+    "start": "2020",
+    "end": "2021",
+    "bullets": [
+      "Designed ergonomic solutions for library staff safety and efficiency",
+      "Conducted workplace safety assessments and user research",
+      "Developed collapsible step stool system adopted by 5 campus libraries",
+      "Reduced injury risk by 40% through improved ergonomic design"
+    ],
+    "tools": ["Ergonomic Design", "Safety Assessment", "User Research", "Product Design"],
+    "links": [
+      {"label": "Case Study", "href": "#"},
+      {"label": "Safety Report", "href": "#"}
+    ]
+  },
+  {
+    "org": "Freelance Design",
+    "role": "Product Designer",
+    "start": "2019",
+    "end": "Present",
+    "bullets": [
+      "Designed sustainable products for small businesses and non-profits",
+      "Developed branding and visual identity for environmental organizations",
+      "Created user experience designs for web and mobile applications",
+      "Provided design consulting for social impact projects"
+    ],
+    "tools": ["Figma", "Adobe Creative Suite", "Web Design", "Branding", "UX/UI"],
+    "links": [
+      {"label": "Portfolio", "href": "#"},
+      {"label": "LinkedIn", "href": "https://linkedin.com/in/orenvanallen"}
+    ]
+  }
+]

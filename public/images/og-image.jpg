@@ -1,0 +1,16 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ogGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogGrad)"/>
+  <text x="600" y="200" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">Oren Van Allen</text>
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="32" fill="#cbd5e1" text-anchor="middle" dominant-baseline="middle">Designer & Design Engineer</text>
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8" text-anchor="middle" dominant-baseline="middle">Creating sustainable solutions through research and product building</text>
+  <circle cx="600" cy="500" r="40" fill="#4f46e5"/>
+  <text x="600" y="510" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">OV</text>
+</svg>
+
+
